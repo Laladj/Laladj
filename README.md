@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laladj
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning conolutionnal neural networks
+- 💞️ I’m looking to collaborate on messaging AI 
 - 📫 How to reach me email : alpha.quiorem@gmail.com
 
 <!---
